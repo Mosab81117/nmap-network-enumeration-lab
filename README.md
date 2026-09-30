@@ -174,7 +174,4 @@ collection, and remediation recommendations.
 > laboratory environment for educational and security-testing
 > purposes.
 
-```
-
-**Markaad paste-gareyso oo aad aragto preview-ga, ha commit-gareyn weli.** Ii soo dir screenshot-ka, waan hubinayaa marka hore.
-```
+``
