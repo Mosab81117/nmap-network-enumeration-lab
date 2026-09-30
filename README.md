@@ -1,6 +1,4 @@
-Haa, kan waa **qoraalkii README-ga weyn** ee aan kuu diyaariyey. GitHub-ka meesha **Add a README** ku paste-garee dhammaan:
 
-````markdown
 # Nmap Network Enumeration & Vulnerability Assessment
 
 ## Project Overview
